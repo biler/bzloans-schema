@@ -35,4 +35,4 @@ https://raw.githubusercontent.com/biler/bzloans-schema/master/bzloans.sql
 
 ## LICENSE
 
-The project is licensed under [MIT LICENSE](MIT.md).
+The project is licensed under [MIT LICENSE](LICENSE.md).
