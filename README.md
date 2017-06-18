@@ -2,6 +2,8 @@
 MS SQL Server T-SQL Script for Biler Solutions Loan System
 
 
+![Entity Relationship Diagram](erd.png?raw=true "ERD")
+
 ## Requirements
 
 * MS SQL Server Server 2012 or higher
