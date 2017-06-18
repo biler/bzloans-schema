@@ -11,8 +11,15 @@ MS SQL Server T-SQL Script for Biler Solutions Loan System
 
 ## Usage
 
-Import the bzloans.sql script using Management Studio to create the tables
 
+- download this file in your local disk
+```
+https://raw.githubusercontent.com/biler/bzloans-schema/master/bzloans.sql
+```
+- connect to your SQL Server via SQ Management Studio
+- create a new database called bzloans
+- in menu, select the bzloans.sql file by:  File > Open > File
+- with the file open, click Execute
 
 ## Tables
 
