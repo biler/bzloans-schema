@@ -32,3 +32,7 @@ https://raw.githubusercontent.com/biler/bzloans-schema/master/bzloans.sql
 * customer - the account holder who wants to apply for loan
 * staffs - people in bank who accepts, processes and approves loan applications
 * schedule_of_payments - when a certain loan is released, the amortization is broke down into its components and its corresponding dates via schedule of payments
+
+## LICENSE
+
+The project is licensed under [MIT LICENSE](MIT.md).
